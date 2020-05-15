@@ -1,0 +1,1 @@
+"# Django-Alumini-portal"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Martinagracy28/Django-Alumini-portal.gitgit push -u origin master                
